@@ -1,0 +1,72 @@
+h1 {
+    font-family: "Merriweather", serif;
+    font-size: 30px;
+    text-align: left;
+    margin: 0;
+    padding: 5px 0;
+    background: #ea260d;
+    text-shadow: 0px 2px 0 rgba(0,0,0,.2);
+    line-height: 100%;
+    color: rgb(0, 0, 0);
+    padding: 10px;
+    margin: 0 auto;
+    display: inline-block;
+    text-decoration: underline;
+    text-decoration-color: yellow;
+}
+
+h2 {
+    font-family: "Merriweather", serif;
+    font-size: 30px;
+    text-align: left;
+    margin: 0;
+    padding: 5px 0;
+    background: #ea260d;
+    text-shadow: 0px 2px 0 rgba(0,0,0,.2);
+    line-height: 100%;
+    color: yellow;
+    padding: 10px;
+    margin: 0 auto;
+    display: inline-block;
+    text-decoration: underline;
+    text-decoration-color: yellow;
+}
+
+h3 {
+    font-family: "Merriweather", serif;
+    font-size: 30px;
+    text-align: left;
+    margin: 0;
+    padding: 5px 0;
+    background: #ea260d;
+    text-shadow: 0px 2px 0 rgba(0,0,0,.2);
+    line-height: 100%;
+    color: rgb(0, 0, 0);
+    padding: 10px;
+    margin: 0 auto;
+    display: inline-block;
+    text-decoration: underline;
+    text-decoration-color: yellow;
+}
+
+h4 {
+    font-family: "Merriweather", serif;
+    font-size: 30px;
+    text-align: left;
+    margin: 0;
+    padding: 5px 0;
+    background: #ea260d;
+    text-shadow: 0px 2px 0 rgba(0,0,0,.2);
+    line-height: 100%;
+    color: rgb(0, 255, 34);
+    padding: 10px;
+    margin: 0 auto;
+    display: inline-block;
+    text-decoration: underline;
+    text-decoration-color: rgba(255, 255, 0, 0.774);
+}
+
+body{
+    background-color: white;
+}
+    
